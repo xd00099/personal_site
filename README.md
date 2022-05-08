@@ -1,3 +1,3 @@
 # personal_site
 
-[du-xiang.com](du-xiang.com)
+[du-xiang.com](https://du-xiang.com)
