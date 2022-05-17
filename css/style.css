@@ -8770,6 +8770,7 @@ h1, h2, h3, h4, h5,
 .ftco-about .img-about {
   width: 100%;
   z-index: 0;
+  height: 75%;
   position: relative; }
   .ftco-about .img-about .img {
     display: block;
@@ -9082,7 +9083,7 @@ textarea.form-control {
 .text-white-80 {
         color: rgba(255, 255, 255, .8) !important
     }
-    
+
 .py-lg-16 {
   padding-top: 30rem !important;
   padding-bottom: 30rem!important;
