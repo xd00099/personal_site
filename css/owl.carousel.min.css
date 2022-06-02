@@ -151,6 +151,26 @@
     animation-name: fadeInRight
 }
 
+@-webkit-keyframes fadeOut {
+    0% {
+        opacity: 1
+    }
+
+    100% {
+        opacity: 0
+    }
+}
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1
+    }
+
+    100% {
+        opacity: 0
+    }
+}
+
 @-webkit-keyframes fadeIn {
     0% {
         opacity: 0
@@ -171,25 +191,6 @@
     }
 }
 
-@-webkit-keyframes fadeOut {
-    0% {
-        opacity: 1
-    }
-
-    100% {
-        opacity: 0
-    }
-}
-
-@keyframes fadeOut {
-    0% {
-        opacity: 1
-    }
-
-    100% {
-        opacity: 0
-    }
-}
 
 .owl-height {
     transition: height .5s ease-in-out
