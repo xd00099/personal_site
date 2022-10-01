@@ -9086,7 +9086,7 @@ textarea.form-control {
 
 .py-lg-16 {
   padding-top: 30rem !important;
-  padding-bottom: 30rem!important;
+  padding-bottom: 30rem !important;
 }
 .overlay-black::before {
   background-color: #161c2d;
